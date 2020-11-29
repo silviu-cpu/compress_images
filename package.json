@@ -10,7 +10,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^26.6.3"
+    "cloudmersive-convert-api-client": "^2.5.8",
+    "imagemin": "^7.0.1",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.1",
+    "imagemin-svgo": "^8.0.0",
+    "jest": "^26.6.3",
+    "jimp": "^0.16.1",
+    "node-image-resizer": "^1.0.0",
+    "sharp": "^0.26.3"
   },
   "dependencies": {}
 }
